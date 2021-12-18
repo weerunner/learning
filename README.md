@@ -1,2 +1,3 @@
 # learning
-Firs time using Git
+First time using Git
+let us make an edit
